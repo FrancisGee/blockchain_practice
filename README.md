@@ -1,1 +1,5 @@
-# blockchain_practice
+# 前言
+当年的互联网通过邮件最新落地，最终移动互联网让各自互联网+百花齐放。
+# 区块链落地项目
+区块链电子发票(区块链的不可篡改特性用于防伪，区块链溯源)
+https://cloud.tencent.com/developer/news/298696
